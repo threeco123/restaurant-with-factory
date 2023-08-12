@@ -1,6 +1,7 @@
 import { Burguer } from './burger';
 import { PRODUCT_TYPE } from './enum/product.type';
 import { ProductManager } from './product-manager';
+import { Product } from './product';
 
 const productManager = new ProductManager();
 
